@@ -18,7 +18,6 @@ const UpComing = () => {
           <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
   
           <div class="relative flex flex-col">
-            <span class="text-blue-600 font-bold">12 October 2023</span>
             <span class="text-lg font-semibold text-white lg:text-xl">CLUCMUN</span>
           </div>
         </a>
